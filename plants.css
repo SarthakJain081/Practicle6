@@ -1,0 +1,30 @@
+#navi{
+    width: 100%;
+    height: 80PX;
+    border: 1px solid black;
+    background-image: radial-gradient(pink, rgb(255, 103, 111));
+}
+
+.image{
+    width: 100%;
+    height: 1130px;
+    height: fit-content;
+    border: 1px solid black;
+    background-image: linear-gradient(to right,rgb(31, 255, 255),lavender,rgb(31, 255, 255),lavender,rgb(31, 255, 255));
+    
+}
+
+.left{
+    padding-left: 20px;
+    padding-top: 20px;
+
+    width: 45%;
+    float: left;
+}
+
+.right{
+    padding-top: 20px;
+    padding-right: 20px;
+    width: 47%;
+    float: right;
+}
