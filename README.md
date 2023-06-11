@@ -1,2 +1,2 @@
-# Practicle7
+# Practicle6
 Image Gallary
